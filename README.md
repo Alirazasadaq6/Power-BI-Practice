@@ -27,13 +27,8 @@ Build real-world data analytics projects
 **🛠️ Tools & Technologies**
 
 Microsoft Power BI Desktop
-
 Power Query
-
 DAX (Learning)
-
 Microsoft Excel
-
 SQL
-
 Git & GitHub
