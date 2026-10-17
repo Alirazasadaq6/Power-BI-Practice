@@ -4,7 +4,6 @@ Welcome to my Power BI learning repository!
 
 This repository documents my hands-on learning journey with Microsoft Power BI, focusing on data cleaning, data transformation, data visualization, business intelligence, and dashboard development.
 
-I am building practical Power BI skills while preparing for the Microsoft PL-300: Power BI Data Analyst Associate certification and pursuing a career in Data Analytics.
 
 **🎯 Learning Objectives**
 
